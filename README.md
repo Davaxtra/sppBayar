@@ -20,7 +20,12 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+- Dashboard
+![Dashboard](./screenshoot/dashboard.png)
+- Kelas
+![Kelas](./screenshoot/dataKelas.png)
+- Pembayaran
+![Pembayaran](./screenshoot/pembayaran.png)
 
 
 ## Usage
