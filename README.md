@@ -31,12 +31,12 @@
 ## Usage
 User :
 * Admin
- - username : admin
- - password : admin
+  - username : admin
+  - password : admin
 
 * Petugas
- - username : petugas
- - password : petugas
+  - username : petugas
+  - password : petugas
 
 * Siswa
   - username : 2021001
