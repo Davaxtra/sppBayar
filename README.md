@@ -1,16 +1,42 @@
 # sppBayar
-Web SPP sederhana untuk tugas sekolah
+> Aplikasi Web Pembayaran SPP sederhana.
 
-Fitur - fitur
+## Table of Contents
+* [General Info](#general-information)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Usage](#usage)
+* [Project Status](#project-status)
 
-* Login Multi-user
-* Dashboard
-* Data Siswa, Kelas, SPP
-* Transaksi
-* Login/Logout
-* Dan Lain - lain
 
-# User
+## General Information
+- Aplikasi ini bisa memudahkan dalam me-manage iuran sekolah.
+- Tujuannya dibuat aplikasi ini untuk tugas sekolah.
 
-* Username : admin1
-* Password : admin
+
+## Features
+- Multi-user
+- Dynamic Dashboard
+
+
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+
+
+## Usage
+User :
+* Admin
+ - username : admin
+ - password : admin
+
+* Petugas
+ - username : petugas
+ - password : petugas
+
+* Siswa
+  - username : 2021001
+  - password : dava666
+
+
+## Project Status
+Project is: _complete_
