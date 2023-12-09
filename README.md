@@ -4,8 +4,8 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Features](#features)
+* [Installation](#installation)
 * [Screenshots](#screenshots)
-* [Usage](#usage)
 * [Project Status](#project-status)
 
 
@@ -18,6 +18,13 @@
 - Multi-user
 - Dynamic Dashboard
 
+## Installation
+Cloning the repository
+```
+git clone https://github.com/Davaxtra/sppBayar
+```
+
+
 
 ## Screenshots
 - Dashboard
@@ -28,7 +35,7 @@
 ![Pembayaran](./screenshoot/pembayaran.png)
 
 
-## Usage
+## Credentials
 User :
 * Admin
   - username : admin
@@ -41,7 +48,6 @@ User :
 * Siswa
   - username : 2021001
   - password : dava666
-
-
+  
 ## Project Status
 Project is: _complete_
